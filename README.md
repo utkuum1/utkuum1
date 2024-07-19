@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkuum1
 - 👀 I’m interested in computer, science and history 
-- 🌱 I’m currently learning programing 
+- 🌱 I’m currently learning programming 
   
 
 <!---
